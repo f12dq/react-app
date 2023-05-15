@@ -7,6 +7,9 @@
     "build": "next build",
     "start": "next start"
   },
+   "engines": {
+  "node": "16.14.0"
+  },
   "dependencies": {
     "@headlessui/react": "^0.2.0",
     "@windmill/react-ui": "^0.5.0",
